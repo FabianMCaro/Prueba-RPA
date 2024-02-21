@@ -3,7 +3,7 @@ package Ejercicios;
 import java.util.*;
 public class Ejercicio3 {
     public static void main(String[] args) {
-        System.out.println("Ejercicio #2\n");
+        System.out.println("Ejercicio #3\n");
 
         List<Integer> list1 = List.of(12, 25, 1, 1, 7, 25);
         System.out.println("Entrada: list="+list1);
